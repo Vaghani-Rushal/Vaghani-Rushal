@@ -1,83 +1,165 @@
-# Hi there 👋, I'm Rushal Vaghani
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║              RUSHAL  VAGHANI  ·  FULL  STACK  DEV            ║
+  ║                                                              ║
+  ║              clean architecture · fast systems               ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
-### Full Stack Developer • Building fast, clean, and meaningful systems
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%E2%9A%A1;TypeScript+%E2%80%A2+Python+%E2%80%A2+Rust+%E2%80%A2+Node;Healthcare+AI+%E2%80%A2+Shopify+Apps+%E2%80%A2+RAG+Systems;Always+shipping%2C+always+learning.)
+<a href="https://rushal-vaghani.netlify.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Rushal%20Vaghani&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Shopify%20%E2%80%A2%20Dev%20Tooling&descSize=16&descAlignY=58&animation=twinkling" width="100%" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rushal-vaghani.netlify.app/)
-![Profile views](https://komarev.com/ghpvc/?username=Vaghani-Rushal&label=Profile%20views&color=00c8ff&style=for-the-badge)
+<br/>
 
----
+<a href="https://rushal-vaghani.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=600&color=00C8FF&center=true&vCenter=true&width=720&lines=I+ship+production-grade+full-stack+software.;TypeScript+%2B+Python+%2B+Rust+%E2%80%94+whatever+the+job+needs.;Currently+building+RAG+systems+%26+Shopify+apps.;Clean+architecture.+Fast+systems.+Code+that+lasts." alt="Typing intro" />
+</a>
 
-## 🧑‍💻 About Me
+<br/><br/>
 
-I'm a Full Stack Developer based in Surat, India, focused on shipping production-grade software across healthcare AI, Shopify e-commerce, and developer tooling. I care about clean architecture, fast systems, and code that's pleasant to read six months later.
+<a href="https://rushal-vaghani.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000" /></a>
+<img src="https://img.shields.io/badge/BASED_IN-Surat%2C_India-FF6B35?style=for-the-badge&labelColor=000" />
+<img src="https://img.shields.io/badge/STATUS-Open_to_Work-00C896?style=for-the-badge&labelColor=000" />
+<img src="https://komarev.com/ghpvc/?username=Vaghani-Rushal&label=PROFILE+VIEWS&color=00c8ff&style=for-the-badge&labelColor=000" />
+
+</div>
+
+<br/>
+
+## `> whoami`
 
 ```ts
-const rushal = {
-  role: 'Full Stack Developer',
-  location: 'Surat, Gujarat 🇮🇳',
-  focus: ['Healthcare AI / RAG', 'Shopify Apps', 'Developer Tooling'],
-  stack: {
-    frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind', 'Redux'],
-    backend:  ['Node.js', 'Express', 'FastAPI', 'Python', 'PHP'],
-    data:     ['MongoDB', 'PostgreSQL', 'MySQL', 'Vector DBs'],
-    ai:       ['RAG', 'LangChain', 'OpenAI', 'HuggingFace'],
-    systems:  ['Rust', 'Electron', 'Docker'],
-  },
-  philosophy: 'Clean architecture. Fast systems. Ship things that matter.',
+const rushal: Developer = {
+  role:        "Full Stack Developer",
+  location:    "Surat, India · UTC+5:30",
+  experience:  "Production apps in healthcare AI, e-commerce, and dev tooling",
+  thinkingIn:  ["TypeScript", "Python", "Rust", "JavaScript"],
+  shippingTo:  ["the web", "Shopify merchants", "clinical workflows", "the CLI"],
+  caresAbout:  ["clean architecture", "fast systems", "code that ages well"],
+  currentlyHooked: "RAG pipelines, vector search, and local-first tooling",
 };
 ```
 
----
+<br/>
 
-## 🚀 What I'm Building
+## `> ls ./projects`
 
-- 🏥 **Clinical RAG System** — Retrieval-augmented generation pipeline over PubMed literature with embeddings, vector search, and a FastAPI backend.
-- 🧪 **AsgardBench** — Full-stack benchmarking platform (TypeScript backend + frontend).
-- 🎯 **Quiz Platform Suite** — Multi-surface product: server, admin frontend, client frontend, and an Electron desktop app.
-- 🛍️ **Shopify MERN Apps** — Reusable Shopify app templates and custom merchant tooling on React + Node + MongoDB.
-- 🎙️ **Lansync Studio / Screenpipe work** — Rust + TypeScript on local-first developer tooling.
-- 📝 **job-os** — Job-tracking app built in TypeScript (web + desktop variants).
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| 🏥 **Clinical RAG System**     | RAG pipeline over PubMed for clinical Q&A   | `Python` `FastAPI` `Vector DBs` `LangChain` |
+| 🧪 **AsgardBench**             | Full-stack benchmarking platform            | `TypeScript` `Node` `React` |
+| 🎯 **Quiz Platform Suite**     | Server + admin + client + Electron desktop  | `TypeScript` `Electron` `Node` |
+| 🛍️ **Shopify MERN Apps**       | Reusable templates & merchant tooling        | `React` `Node` `MongoDB` `Shopify CLI` |
+| 🎙️ **Lansync Studio · Screenpipe** | Local-first developer tooling           | `Rust` `TypeScript` `Tauri` |
+| 📝 **job-os**                  | Job tracker (web + desktop variants)        | `TypeScript` `Next.js` `Electron` |
 
----
+<br/>
 
-## 🛠️ Tech I Work With
+## `> cat stack.json`
 
-**Languages:** TypeScript · JavaScript · Python · Rust · PHP · C/C++ · SQL
+<div align="center">
 
-**Frontend:** React · Next.js · Redux · Tailwind · Bootstrap · Electron
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Backend:** Node.js · Express · FastAPI · Django · PHP
+### 🧠 Languages
+```yaml
+daily:    [TypeScript, Python]
+shipping: [JavaScript, PHP]
+exploring:[Rust, Go]
+fluent:   [SQL, Bash]
+```
 
-**Data:** MongoDB · PostgreSQL · MySQL · Redis · Vector DBs
+</td>
+<td valign="top" width="33%">
 
-**AI / ML:** RAG pipelines · LangChain · OpenAI · HuggingFace · Embeddings
+### 🎨 Frontend
+```yaml
+core:     [React, Next.js]
+styling:  [Tailwind, CSS-in-JS]
+state:    [Redux, Zustand]
+desktop:  [Electron, Tauri]
+```
 
-**Tools:** Git · Docker · Linux · Vercel · Netlify · Shopify CLI
+</td>
+<td valign="top" width="33%">
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,redux,python,fastapi,django,php,mongodb,postgres,mysql,redis,rust,cpp,electron,docker,git,linux)
+### ⚙️ Backend
+```yaml
+runtimes: [Node, Python, PHP]
+frameworks:[Express, FastAPI]
+data:     [Mongo, Postgres, Redis]
+ai:       [LangChain, OpenAI]
+```
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
+<br/>
 
-![Rushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaghani-Rushal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,express,fastapi,django,php,tailwind,redux,mongodb,postgres,mysql,redis,electron,docker,git,linux,vercel&perline=11" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaghani-Rushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaghani-Rushal&theme=tokyonight&hide_border=true)
+<br/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Vaghani-Rushal&theme=tokyonight&no-frame=true&row=1&column=7)
+## `> git log --stat`
 
----
+<div align="center">
 
-## 🤝 Let's Connect
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaghani-Rushal&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&icon_color=00c8ff&title_color=00c8ff&text_color=cdd6f4" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaghani-Rushal&layout=compact&theme=transparent&hide_border=true&langs_count=10&title_color=00c8ff&text_color=cdd6f4" />
 
-- 🌐 **Portfolio:** https://rushal-vaghani.netlify.app/
-- 💼 **Open to:** Full-time roles, freelance projects, and meaningful collaborations
-- 💬 Reach out via the email link on my portfolio
+<br/>
 
----
+<img src="https://streak-stats.demolab.com?user=Vaghani-Rushal&theme=transparent&hide_border=true&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff" />
 
-_“Code is read more often than it is written. Write it like you mean it.”_
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaghani-Rushal&bg_color=00000000&color=cdd6f4&line=00c8ff&point=ffffff&area=true&hide_border=true" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vaghani-Rushal&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+
+</div>
+
+<br/>
+
+## `> echo $PHILOSOPHY`
+
+> _"The best code is the code you don't have to write twice._
+> _Build it once. Build it right. Make it boring to maintain."_
+
+<br/>
+
+## `> ./connect.sh`
+
+<div align="center">
+
+<a href="https://rushal-vaghani.netlify.app/">
+  <img src="https://img.shields.io/badge/-PORTFOLIO-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000" />
+</a>
+<a href="https://rushal-vaghani.netlify.app/">
+  <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000" />
+</a>
+<a href="https://github.com/Vaghani-Rushal">
+  <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000" />
+</a>
+
+<br/><br/>
+
+<sub><b>Open to:</b> full-time roles · freelance contracts · technical collaborations on healthcare AI, dev tooling, and serious full-stack work.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+
+</div>
