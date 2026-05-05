@@ -1,11 +1,5 @@
 <!--
-  ██████╗ ██╗   ██╗███████╗██╗  ██╗ █████╗ ██╗     
-  ██╔══██╗██║   ██║██╔════╝██║  ██║██╔══██╗██║     
-  ██████╔╝██║   ██║███████╗███████║███████║██║     
-  ██╔══██╗██║   ██║╚════██║██╔══██║██╔══██║██║     
-  ██║  ██║╚██████╔╝███████║██║  ██║██║  ██║███████╗
-  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-            v a g h a n i  ·  full-stack
+  RUSHAL VAGHANI - profile readme
 -->
 
 <a href="https://rushal-vaghani.netlify.app/">
@@ -14,232 +8,175 @@
 
 <div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=720&height=46&lines=I+architect+systems+that+ship+%E2%9A%A1;Healthcare+AI+%E2%80%A2+RAG+%E2%80%A2+LLM+pipelines;Shopify+apps+%E2%80%A2+Dev+tooling+%E2%80%A2+Desktop;TypeScript+%E2%80%A2+Python+%E2%80%A2+Rust+%E2%80%A2+React+%E2%80%A2+Node;Designed+%E2%86%92+Built+%E2%86%92+Deployed+%E2%86%92+Scaled)](https://github.com/Vaghani-Rushal)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=600&color=06B6D4&center=true&vCenter=true&width=720&height=44&lines=%E2%9C%A6+Senior+Full+Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+React+Native;Healthcare+AI+%E2%80%A2+RAG+%E2%80%A2+Shopify+Apps;Clean+architecture.+Fast+systems.+Ship+things+that+matter.)](https://rushal-vaghani.netlify.app/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rushal--vaghani.netlify.app-06B6D4?style=for-the-badge&logo=safari&logoColor=white&labelColor=0f172a)](https://rushal-vaghani.netlify.app/)
-[![Email](https://img.shields.io/badge/vaghanirushal%40gmail.com-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:vaghanirushal@gmail.com)
-[![Location](https://img.shields.io/badge/Surat%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f172a)](#)
-[![Status](https://img.shields.io/badge/Status-shipping%20things-22C55E?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0f172a)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=Vaghani-Rushal&label=Profile+Views&color=06b6d4&style=for-the-badge)](#)
+<a href="https://www.linkedin.com/in/rushal-vaghani-47835b1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/~01853589cad5b11e67"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<a href="https://rushal-vaghani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Vaghani-Rushal&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## `> ./terminal --live`
+## ` > ./terminal --interactive `
+
+> Click any command below to execute. _(GitHub strips JS, so this CLI uses native `<details>` tags — every command is a real, working click-to-expand response.)_
+
+<details>
+<summary><code>$ help</code></summary>
+
+```bash
+Available commands:
+  whoami       -> who is this dev
+  skills       -> tech stack & superpowers
+  projects     -> recent shipped work
+  experience   -> where I've built things
+  stats        -> live github stats
+  philosophy   -> how I think about code
+  contact      -> how to reach me
+  hire         -> available for senior roles & contracts
+```
+
+</details>
+
+<details>
+<summary><code>$ whoami</code></summary>
+
+```yaml
+name:        Rushal Vaghani
+role:        Senior Full Stack Developer
+location:    Surat, India  (UTC+05:30)
+focus:       SaaS - Healthcare AI - Shopify - Dev Tooling
+languages:   TypeScript - Python - Rust - JavaScript
+status:      building lansync-studio - open to senior contracts
+fun_fact:    I read system-design papers the way other people read novels.
+```
+
+</details>
+
+<details>
+<summary><code>$ skills</code></summary>
+
+**Frontend** &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend** &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**Mobile / Desktop** &nbsp; ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=000) ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
+
+**Data + Infra** &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+
+**AI / ML** &nbsp; ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+
+**Payments / Commerce** &nbsp; ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+
+</details>
+
+<details>
+<summary><code>$ projects --recent</code></summary>
+
+| | Project | Stack | Link |
+|---|---|---|---|
+| 🖥️ | **lansync-studio** — Cross-platform desktop sync engine | Tauri - Rust - React - IPC | [`repo ->`](https://github.com/Vaghani-Rushal/lansync-studio) |
+| 🎯 | **job-os** — A "job-search OS", web + mobile companion | React Native - Node - Mongo | [`repo ->`](https://github.com/Vaghani-Rushal/job-os) |
+| 📱 | **job-os-app** — Mobile companion app | React Native - TypeScript | [`repo ->`](https://github.com/Vaghani-Rushal/job-os-app) |
+| 🏥 | **clinical-rag-system** — Production RAG over clinical literature | Pinecone - LangChain - FastAPI - Postgres | _private_ |
+| ⚔️ | **AsgardBench** — Benchmarking platform (frontend + backend) | Next.js - Node - Postgres - Auth | _private_ |
+| 🛒 | **Shopify MERN templates** — Production embedded apps | Shopify - App Bridge - Polaris - Mongo | _private_ |
+
+</details>
+
+<details>
+<summary><code>$ experience</code></summary>
+
+```text
+[2024 - present]  Senior Full Stack Developer - Staycold Solution
+                  -> multi-tenant SaaS - Stripe billing - RBAC - admin dashboards
+                  -> React Native apps - payments - push - realtime - offline
+                  -> Node + Postgres/Mongo APIs - indexing - perf tuning
+                  -> OpenAI / GPT-powered features in production
+                  -> Custom Shopify embedded apps - App Bridge - Polaris
+                  -> live-system stability, query optimization, scaling
+```
+
+</details>
+
+<details>
+<summary><code>$ stats</code></summary>
 
 <div align="center">
 
-<a href="https://rushal-vaghani.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=600&color=22C55E&width=900&height=320&lines=%24+whoami;rushal-vaghani+%E2%80%94+full-stack+%E2%80%94+ships+to+production;%24+cat+about.txt;Builds+across+the+entire+stack%3A+frontend%2C+backend%2C+infra%2C+ML.;Healthcare+AI+(RAG%2FLLM)+%E2%80%A2+Shopify+apps+%E2%80%A2+desktop+(Tauri)+%E2%80%A2+dev+tooling.;%24+ls+./skills+%7C+head;TypeScript+Python+Rust+Go+React+Next+Node+FastAPI+PostgreSQL+Mongo;Tauri+Electron+Docker+Redis+Pinecone+Weaviate+OpenAI+LangChain;%24+git+log+--oneline+-n+5;feat%3A+clinical-rag-system+%E2%86%92+production;feat%3A+AsgardBench+(frontend+%2B+backend+platform);feat%3A+lansync-studio+%E2%80%94+local+sync+desktop+app;feat%3A+job-os+%E2%80%94+job-search+OS+(web+%2B+mobile);feat%3A+screenpipe-fresh+%E2%80%94+screen+context+pipeline;%24+echo+%24STATUS;%E2%9A%A1+available+for+interesting+work" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaghani-Rushal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaghani-Rushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=Vaghani-Rushal&theme=tokyonight&hide_border=true&background=00000000" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vaghani-Rushal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
----
+</details>
 
-## `> ls ./projects --recent`
+<details>
+<summary><code>$ philosophy</code></summary>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> _"Clean architecture beats clever code. Fast systems beat fancy ones. Ship things that matter — and measure what you ship."_
 
-### 🏥 clinical-rag-system
-> Production RAG over clinical literature.<br/>
-> Pinecone · LangChain · FastAPI · Postgres
-> 
-> ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-> ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+```text
+1. Boring tech in production. Exciting tech in side projects.
+2. The data model is the product. Get it right before the UI.
+3. Latency budgets, not vibes. Measure p50/p95 or you're guessing.
+4. Documentation is part of "done". If it's not written down, it doesn't exist.
+5. Ship the thinnest vertical slice that proves value, then iterate.
+```
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### ⚔️ AsgardBench
-> Benchmarking platform · frontend + backend.<br/>
-> Next.js · Node · Postgres · Auth
->
-> ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-> ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-> ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<details>
+<summary><code>$ contact</code></summary>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+```text
+portfolio   ->  https://rushal-vaghani.netlify.app/
+linkedin    ->  /in/rushal-vaghani-47835b1bb
+upwork      ->  /freelancers/~01853589cad5b11e67
+location    ->  Surat, India  (UTC+05:30)
+response    ->  usually within 4-8 hours
+```
 
-### 🖥️ lansync-studio
-> Cross-platform desktop sync (Tauri + Rust core).<br/>
-> Tauri · Rust · React · IPC
->
-> ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-> ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=000)
-> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+</details>
 
-[Repo →](https://github.com/Vaghani-Rushal/lansync-studio)
+<details>
+<summary><code>$ hire</code></summary>
 
-</td>
-<td width="50%" valign="top">
+```diff
++ Open to senior full-stack contracts (remote)
++ SaaS MVPs - React Native apps - Healthcare AI - Shopify
++ $40/hr on Upwork - milestone-based - documented delivery
+- No "build me Facebook in a weekend" projects, please.
+```
 
-### 🎯 job-os
-> A "job-search OS" — web + mobile companion.<br/>
-> React Native · Node · Mongo
->
-> ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=000)
-> ![Node](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-> ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**-> [Hire me on Upwork](https://www.upwork.com/freelancers/~01853589cad5b11e67)**
 
-[Repo →](https://github.com/Vaghani-Rushal/job-os)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Shopify MERN templates
-> Production embedded apps · App Bridge · Polaris.<br/>
-> Shopify · Node · React · Mongo
-
-</td>
-<td width="50%" valign="top">
-
-### 🍔 myFood-mern
-> Full MERN food-ordering app · auth · cart · orders.
->
-> ![Repo](https://img.shields.io/badge/-Repo-181717?style=flat-square&logo=github&logoColor=white)
-
-[Repo →](https://github.com/Vaghani-Rushal/myFood-mern) · [Live →](https://myfood-mern.netlify.app)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## `> cat stack.json`
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**`frontend`**
-<p>
-<img src="https://skillicons.dev/icons?i=ts,react,next,redux,tailwind,vite,html,css" />
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-**`backend`**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,rust,go,graphql" />
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-**`data + infra`**
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,vercel,linux,bash" />
-</p>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**`ai / ml`**
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000?style=flat-square" />
-</p>
-
-</td>
-<td valign="top">
-
-**`desktop / mobile`**
-<p>
-<img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=000" />
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=000" />
-</p>
-
-</td>
-<td valign="top">
-
-**`tooling`**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,nginx" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-## `> git log --stat`
+## ` > git log --graph `
 
 <div align="center">
 
-<a href="https://github.com/Vaghani-Rushal">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaghani-Rushal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=06b6d4&icon_color=7c3aed&text_color=cbd5e1&bg_color=00000000" />
-</a>
-<a href="https://github.com/Vaghani-Rushal">
-  <img height="170" src="https://streak-stats.demolab.com?user=Vaghani-Rushal&hide_border=true&background=00000000&stroke=00000000&ring=06b6d4&fire=ef4444&currStreakNum=cbd5e1&sideNums=cbd5e1&currStreakLabel=06b6d4&sideLabels=cbd5e1&dates=64748b" />
-</a>
+![snake](https://raw.githubusercontent.com/Vaghani-Rushal/Vaghani-Rushal/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaghani-Rushal&layout=compact&hide_border=true&title_color=06b6d4&text_color=cbd5e1&bg_color=00000000&langs_count=10" height="180" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaghani-Rushal&theme=tokyo-night&hide_border=true&bg_color=00000000&color=06b6d4&line=7c3aed&point=ffffff" width="98%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaghani-Rushal&theme=react-dark&hide_border=true&bg_color=00000000&color=06b6d4&line=7c3aed&point=ef4444&area=true&area_color=7c3aed" width="98%" />
-
-</div>
-
-### 🐍 contribution snake
-
-<div align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/Vaghani-Rushal/Vaghani-Rushal/output/github-contribution-grid-snake-dark.svg" width="98%" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg';" />
-</div>
-
-### 🏆 trophies
-
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaghani-Rushal&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</a>
 </div>
 
 ---
 
-## `> echo $PHILOSOPHY`
-
-> _"Clean architecture beats clever code._<br/>
-> _Fast systems beat fancy ones._<br/>
-> _Ship things that matter — measure what you ship."_
-
----
-
-## `> ./connect.sh`
-
 <div align="center">
 
-<a href="https://rushal-vaghani.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=safari&logoColor=white&labelColor=0f172a" height="44" />
-</a>
-<a href="mailto:vaghanirushal@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" height="44" />
-</a>
-<a href="https://github.com/Vaghani-Rushal">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" height="44" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0f172a&height=120&section=footer&text=%3E%20_&fontSize=42&fontColor=ffffff&fontAlignY=68" width="100%" />
 
-<br/><br/>
-
-<sub>`# > _ ` last commit pushed at `$(date)` from Surat, India</sub>
+<sub><b>Rushal Vaghani</b> &nbsp;-&nbsp; Surat, India &nbsp;-&nbsp; <i>built with care, deployed with discipline.</i></sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0f172a&height=120&section=footer" width="100%" />
