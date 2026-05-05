@@ -34,51 +34,50 @@ const rushal = {
 ## 🚀 What I'm Building
 
 - 🏥 **Clinical RAG System** — Retrieval-augmented generation pipeline over PubMed literature with embeddings, vector search, and a FastAPI backend.
-- - 🧪 **AsgardBench** — Full-stack benchmarking platform (TypeScript backend + frontend).
-  - - 🎯 **Quiz Platform Suite** — Multi-surface product: server, admin frontend, client frontend, and an Electron desktop app.
-    - - 🛍️ **Shopify MERN Apps** — Reusable Shopify app templates and custom merchant tooling on React + Node + MongoDB.
-      - - 🎙️ **Lansync Studio / Screenpipe work** — Rust + TypeScript on local-first developer tooling.
-        - - 📝 **job-os** — Job-tracking app built in TypeScript (web + desktop variants).
-         
-          - ---
+- 🧪 **AsgardBench** — Full-stack benchmarking platform (TypeScript backend + frontend).
+- 🎯 **Quiz Platform Suite** — Multi-surface product: server, admin frontend, client frontend, and an Electron desktop app.
+- 🛍️ **Shopify MERN Apps** — Reusable Shopify app templates and custom merchant tooling on React + Node + MongoDB.
+- 🎙️ **Lansync Studio / Screenpipe work** — Rust + TypeScript on local-first developer tooling.
+- 📝 **job-os** — Job-tracking app built in TypeScript (web + desktop variants).
 
-          ## 🛠️ Tech I Work With
+---
 
-          **Languages:** TypeScript · JavaScript · Python · Rust · PHP · C/C++ · SQL
+## 🛠️ Tech I Work With
 
-          **Frontend:** React · Next.js · Redux · Tailwind · Bootstrap · Electron
+**Languages:** TypeScript · JavaScript · Python · Rust · PHP · C/C++ · SQL
 
-          **Backend:** Node.js · Express · FastAPI · Django · PHP
+**Frontend:** React · Next.js · Redux · Tailwind · Bootstrap · Electron
 
-          **Data:** MongoDB · PostgreSQL · MySQL · Redis · Vector DBs
+**Backend:** Node.js · Express · FastAPI · Django · PHP
 
-          **AI / ML:** RAG pipelines · LangChain · OpenAI · HuggingFace · Embeddings
+**Data:** MongoDB · PostgreSQL · MySQL · Redis · Vector DBs
 
-          **Tools:** Git · Docker · Linux · Vercel · Netlify · Shopify CLI
+**AI / ML:** RAG pipelines · LangChain · OpenAI · HuggingFace · Embeddings
 
-          ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,redux,python,fastapi,django,php,mongodb,postgres,mysql,redis,rust,cpp,electron,docker,git,linux)
+**Tools:** Git · Docker · Linux · Vercel · Netlify · Shopify CLI
 
-          ---
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,redux,python,fastapi,django,php,mongodb,postgres,mysql,redis,rust,cpp,electron,docker,git,linux)
 
-          ## 📊 GitHub Stats
+---
 
-          ![Rushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaghani-Rushal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## 📊 GitHub Stats
 
-          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaghani-Rushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Rushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaghani-Rushal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-          ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaghani-Rushal&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaghani-Rushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-          ![Trophies](https://github-profile-trophy.vercel.app/?username=Vaghani-Rushal&theme=tokyonight&no-frame=true&row=1&column=7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaghani-Rushal&theme=tokyonight&hide_border=true)
 
-          ---
+![Trophies](https://github-profile-trophy.vercel.app/?username=Vaghani-Rushal&theme=tokyonight&no-frame=true&row=1&column=7)
 
-          ## 🤝 Let's Connect
+---
 
-          - 🌐 **Portfolio:** https://rushal-vaghani.netlify.app/
-          - - 💼 **Open to:** Full-time roles, freelance projects, and meaningful collaborations
-            - - 💬 Reach out via the email link on my portfolio
-             
-              - ---
+## 🤝 Let's Connect
 
-              _“Code is read more often than it is written. Write it like you mean it.”_
-              
+- 🌐 **Portfolio:** https://rushal-vaghani.netlify.app/
+- 💼 **Open to:** Full-time roles, freelance projects, and meaningful collaborations
+- 💬 Reach out via the email link on my portfolio
+
+---
+
+_“Code is read more often than it is written. Write it like you mean it.”_
