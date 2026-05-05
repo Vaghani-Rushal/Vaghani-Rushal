@@ -19,7 +19,6 @@
 <a href="https://www.linkedin.com/in/rushal-vaghani-47835b1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.upwork.com/freelancers/~01853589cad5b11e67"><img src="https://img.shields.io/badge/Hire%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <a href="https://rushal-vaghani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:rushal.vaghani@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Vaghani-Rushal&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" />
 
 </div>
@@ -250,16 +249,27 @@ Production embedded Shopify apps using App Bridge, Polaris, and Storefront API. 
 
 ---
 
-## 📊 &nbsp; GitHub Stats
+## 📊 &nbsp; By the Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaghani-Rushal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaghani-Rushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+<img src="https://img.shields.io/badge/dynamic/json?color=06b6d4&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaghani-Rushal&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?color=7c3aed&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaghani-Rushal&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total%20Contributions-2%2C264%2B-22c55e?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-1808%20%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/Years%20Coding-2%2B-f59e0b?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-yes-22c55e?style=for-the-badge&logo=hyper&logoColor=white" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Vaghani-Rushal&theme=tokyonight&hide_border=true" width="98%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vaghani-Rushal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=480" />
+  <img alt="Rushal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Vaghani-Rushal&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&card_width=480" width="48%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaghani-Rushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=480" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaghani-Rushal&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=480" width="48%" />
+</picture>
 
 <br/><br/>
 
