@@ -1,16 +1,26 @@
 # Rushal Vaghani
 
-Full-stack developer focused on product engineering.
+DevOps and infrastructure, with full-stack development experience.
 
-I work on web interfaces, APIs and background workflows, including commerce integrations and AI retrieval features. My infrastructure work includes Linux access workflows and configuration management; MLOps is a longer-term direction.
+My focus is Linux operations, access workflows, and configuration management. I work with Ansible and Docker, and build the application workflows that connect people to these systems.
+
+My full-stack work includes web interfaces, APIs, background jobs, commerce integrations, and AI retrieval features. MLOps is a longer-term direction.
 
 ## Technology choices
 
+- **Infrastructure:** Linux, Ansible and Docker for system and deployment workflows.
 - **Web:** React, Next.js and TypeScript for interfaces.
 - **Backend:** Node.js and Python/FastAPI for APIs; PostgreSQL for application data.
 - **Background workflows:** Redis and Celery for asynchronous jobs.
 - **Desktop:** Electron and React for LAN collaboration tools.
-- **Infrastructure:** Linux, Ansible and Docker for system and deployment workflows.
+
+## Infrastructure focus
+
+- Linux access workflows: keeping requested changes, reviewed configuration, and execution connected.
+- Configuration management: making intended system state explicit and reviewing changes before they are applied.
+- Operational reasoning: considering failure, recovery, and access removal alongside the normal workflow.
+
+Client implementations stay private. These are anonymous descriptions of my work, not claims that the underlying code is available here.
 
 ## Public code
 
