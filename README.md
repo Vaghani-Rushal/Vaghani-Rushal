@@ -232,8 +232,6 @@ Extended delivery estimates and merchant settings, plus blog/magazine management
 | **Courier Operations** | Booking, barcode labels, trips and shipment-status workflows. |
 | **Employee Time & Leave** | Time entries, leave and reporting on a template-based admin UI. |
 | **Corporate Website & CMS** | Next.js website and separate extensions to an inherited CMS. |
-| **[NextSpace / JOB-OS](https://github.com/Vaghani-Rushal/job-os)** | Planning, integration and agent-directed review of a job-search workspace. In development. |
-| **[myFood](https://github.com/Vaghani-Rushal/myFood-mern)** | Earlier MERN learning project: browsing, cart and orders. |
 
 </details>
 
