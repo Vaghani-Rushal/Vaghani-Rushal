@@ -18,8 +18,6 @@
 
 </div>
 
-<p align="center"><a href="#work">Projects</a> &nbsp;·&nbsp; <a href="#experience">Experience</a> &nbsp;·&nbsp; <a href="#stack">Tech stack</a> &nbsp;·&nbsp; <a href="#learning">Learning</a> &nbsp;·&nbsp; <a href="#contact">Connect</a></p>
-
 ---
 
 <table align="center" width="100%">
@@ -28,9 +26,9 @@
 
 ### 👋 &nbsp; Hi, I'm Rushal.
 
-I work across **application development and the infrastructure behind it**—from React interfaces and backend APIs to Linux access, deployment automation and recovery workflows.
+I build applications and work on the systems that run them.
 
-My current focus is **DevOps, Linux and networking**, grounded in hands-on full-stack work across healthcare products, Shopify applications and retrieval/data services.
+**DevOps, Linux and networking** are my focus, backed by full-stack work in healthcare, Shopify and AI retrieval.
 
 </td>
 <td width="38%" align="center" valign="top">
@@ -39,26 +37,17 @@ My current focus is **DevOps, Linux and networking**, grounded in hands-on full-
 
 <br/>
 
-<b>Code → Systems → Useful products</b>
+<b>Build. Deploy. Keep improving.</b>
 
-<p>Based in Surat, India<br/><sub>Open to DevOps / infrastructure and full-stack opportunities.</sub></p>
+<p><sub>DevOps &amp; full-stack opportunities<br/>Surat, India</sub></p>
 
 </td>
 </tr>
 </table>
 
-```ts
-const rushal = {
-  focus: ["DevOps", "Linux", "Networking"],
-  build: ["Web & mobile", "APIs", "RAG"],
-  work: "Freelance · Upwork clients",
-  next: "Dalhousie MACS · January 2027"
-};
-```
+<p align="center"><b>From application code to dependable operations.</b><br/>APIs &amp; interfaces · Linux &amp; automation · Deployment &amp; recovery</p>
 
 ---
-
-<a id="stack"></a>
 
 ## 🛠️ &nbsp; Tech Stack
 
@@ -68,19 +57,19 @@ const rushal = {
 
 <img src="https://skillicons.dev/icons?i=linux,ansible,docker,aws,nginx,githubactions,bash&theme=dark" alt="Linux, Ansible, Docker, AWS, NGINX, GitHub Actions and Bash" />
 
-Linux access & SSH · Tailscale · systemd · CI/CD · health checks & recovery
+SSH · Tailscale · systemd · CI/CD
 
 #### 🎨 &nbsp; Web, Mobile & Desktop
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,electron&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS and Electron" />
 
-React Native · API integration · dashboards & admin workflows
+React Native · APIs · admin tools
 
 #### ⚙️ &nbsp; Backend & Data
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,sqlite&theme=dark" alt="Node.js, Express, Python, FastAPI, MongoDB, PostgreSQL and SQLite" />
 
-REST APIs · data modelling · storage integration · background jobs
+Data modelling · storage · background jobs
 
 #### 🔎 &nbsp; Retrieval, AI Integration & Commerce
 
@@ -91,17 +80,15 @@ REST APIs · data modelling · storage integration · background jobs
 <img src="https://img.shields.io/badge/MCP-6D28D9?style=flat-square" alt="MCP" />
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square" alt="Shopify" />
 </p>
-Chunking & embeddings · ChromaDB / Weaviate · OCR / VQA workflows · Shopify App Proxy
+Embeddings · ChromaDB / Weaviate · OCR / VQA · App Proxy
 
 </div>
 
 ---
 
-<a id="work"></a>
-
 ## 🚀 &nbsp; Selected Engineering Work
 
-Selected contributions across client and personal/team projects. Some work uses inherited foundations and AI-assisted implementation; the descriptions identify my scope. Client code, identities and internal data remain private.
+Client work and personal/team projects. Descriptions reflect my contribution, including team and AI-assisted work; private client details stay private.
 
 <table width="100%">
 <tr>
@@ -110,7 +97,7 @@ Selected contributions across client and personal/team projects. Some work uses 
 <h3 align="center">🖥️ &nbsp; Linux Fleet & Access Automation</h3>
 <p align="center"><b>Access that is reviewable and repeatable.</b></p>
 
-Linux/GPU operations across multiple sites, with named-user access, SSH hardening, sudo policies and Tailscale connectivity. My work connects an access dashboard and reviewed Git changes to Ansible execution, CI validation and visible job states.
+Connected an access dashboard to Ansible and CI workflows for Linux/GPU systems: named accounts, SSH/sudo policies and Tailscale connectivity.
 
 <p><sub>Ongoing · team infrastructure</sub></p>
 <p align="center">
@@ -125,7 +112,7 @@ Linux/GPU operations across multiple sites, with named-user access, SSH hardenin
 <h3 align="center">🔁 &nbsp; Storefront Deployment & Recovery</h3>
 <p align="center"><b>A release needs a recovery path.</b></p>
 
-Built proxy-serving and release workflows around a Shopify-connected application: NGINX/Express integration, checked artifacts, AWS OIDC/S3/SSM delivery and content-aware health checks. My contribution covers infrastructure and deployment; the calculator engine and wider UI were built by teammates.
+Built NGINX/Express serving and AWS release workflows with artifact validation, health checks and recovery paths for a teammate-built storefront application.
 
 <p><sub>Client delivery · selected contribution</sub></p>
 <p align="center">
@@ -142,7 +129,7 @@ Built proxy-serving and release workflows around a Shopify-connected application
 <h3 align="center">🔎 &nbsp; ClinicalChat · RAG & Dataset Assessment</h3>
 <p align="center"><b>From documents to useful research workflows.</b></p>
 
-Contributed backend services and selected UI workflows across a research application, retrieval service and supporting assessment platform. Work includes section-aware chunking, embeddings, hybrid search, streamed LLM responses and exports, plus assessment authoring and local dataset access through Electron.
+Contributed chunking, embeddings, hybrid retrieval and streamed answers, alongside supporting dataset-assessment workflows and local media access.
 
 <p><sub>Team product · application &amp; data services</sub></p>
 <p align="center">
@@ -155,11 +142,11 @@ Contributed backend services and selected UI workflows across a research applica
 <td width="50%" valign="top">
 
 <h3 align="center">📄 &nbsp; OCR Gateway & Video-to-VQA</h3>
-<p align="center"><b>Two pipelines, one data-workflow initiative.</b></p>
+<p align="center"><b>Two pipelines. Clear responsibilities.</b></p>
 
-Designed an authenticated gateway around an existing GPU OCR service and reviewed agent-assisted implementation of job handling and audit controls. Separately developed video/annotation processing into structured facts, review workbooks and question exports used in dataset assessments.
+Designed and reviewed an OCR service gateway. Separately developed video-annotation processing into structured facts, review workbooks and assessment questions.
 
-<p><sub>OCR gateway: prototype · VQA outputs used</sub></p>
+<p><sub>OCR: undeployed prototype · VQA: used in assessments</sub></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" alt="FastAPI" />
@@ -174,7 +161,7 @@ Designed an authenticated gateway around an existing GPU OCR service and reviewe
 <h3 align="center">🌐 &nbsp; LANspace · Local Collaboration</h3>
 <p align="center"><b>Nearby devices, a shared workspace.</b></p>
 
-An Electron/React desktop project for LAN discovery, approved workspace sessions, clipboard collaboration and file access. Contributed discovery and collaboration workflows, with on-demand transfers and edit-conflict checks. Developed as a personal/team project.
+Contributed LAN discovery, shared sessions, clipboard collaboration and on-demand file access in an Electron/React desktop project, with edit-conflict checks.
 
 <p><sub>Development project · public repository</sub></p>
 <p align="center">
@@ -188,9 +175,9 @@ An Electron/React desktop project for LAN discovery, approved workspace sessions
 <td width="50%" valign="top">
 
 <h3 align="center">🔐 &nbsp; MCP Tool Access & Authorization</h3>
-<p align="center"><b>Define what a tool may do—and revoke it.</b></p>
+<p align="center"><b>Grant access. Enforce scope. Revoke.</b></p>
 
-Extended an inherited application with scoped tool-access grants, consent, token refresh, reuse detection and revocation. Designed and reviewed authorization checks at tool execution and desktop-bridge integration, with regression coverage.
+Extended an existing app with scoped consent, token refresh/revocation and authorization at tool execution, plus desktop-bridge integration.
 
 <p><sub>Ongoing prototype · not deployed</sub></p>
 <p align="center">
@@ -207,7 +194,7 @@ Extended an inherited application with scoped tool-access grants, consent, token
 <h3 align="center">🏥 &nbsp; Healthcare Kits, Wellness & Mobile</h3>
 <p align="center"><b>Connected customer and staff journeys.</b></p>
 
-Contributed to kit and wellness platforms for Vietnam and Kazakhstan: intake, selected admin features, payment reconciliation, visit workflows and React Native/API integration. Work includes push notifications, deep links and resumable consolidation tooling exercised on staging.
+Contributed intake, payment reconciliation, visit workflows and React Native integrations across Vietnam/Kazakhstan kit and wellness platforms. Consolidation tooling was exercised on staging.
 
 <p><sub>Ongoing · regional team-built platforms</sub></p>
 <p align="center">
@@ -220,11 +207,11 @@ Contributed to kit and wellness platforms for Vietnam and Kazakhstan: intake, se
 <td width="50%" valign="top">
 
 <h3 align="center">🛍️ &nbsp; Shopify Apps & Editorial Integration</h3>
-<p align="center"><b>Merchant controls with clear storefront behavior.</b></p>
+<p align="center"><b>From merchant settings to storefront.</b></p>
 
-Extended delivery-rule applications with product/store settings, cutoff times and working-day estimates. Built blog/magazine features covering articles, authors, categories, CSV preview/import and publishing, with App Proxy and theme integration on existing foundations.
+Extended delivery estimates and merchant settings, plus blog/magazine management, CSV import and publishing through App Proxy and theme integration.
 
-<p><sub>Client work · two related applications</sub></p>
+<p><sub>Client work · existing app foundations</sub></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square" alt="Shopify" />
 <img src="https://img.shields.io/badge/React-087EA4?style=flat-square" alt="React" />
@@ -240,19 +227,17 @@ Extended delivery-rule applications with product/store settings, cutoff times an
 
 <br/>
 
-| Project | Work covered |
+| Project | Contribution |
 | :--- | :--- |
-| **Courier Operations Platform** | React/Express/PostgreSQL back office for booking, AWB labels, batches, trips and dispatch/arrival status. |
-| **Employee Time & Leave Portal** | Project-based time entries, leave workflows and import/reporting features, extending a template-based admin UI. |
-| **Corporate Website & CMS Extensions** | Next.js website delivery and selected React/Express/MongoDB admin extensions. Website content and CMS workflows were separate paths in the archived implementation. |
-| **[NextSpace / JOB-OS](https://github.com/Vaghani-Rushal/job-os)** | Development project using Next.js, FastAPI and PostgreSQL, with discovery, scoring, application tracking and AI-assisted document workflows. Planning, integration and agent-directed review. |
-| **[myFood](https://github.com/Vaghani-Rushal/myFood-mern)** | Earlier MERN learning project covering accounts, browsing, cart and order history. |
+| **Courier Operations** | Booking, barcode labels, trips and shipment-status workflows. |
+| **Employee Time & Leave** | Time entries, leave and reporting on a template-based admin UI. |
+| **Corporate Website & CMS** | Next.js website and separate extensions to an inherited CMS. |
+| **[NextSpace / JOB-OS](https://github.com/Vaghani-Rushal/job-os)** | Planning, integration and agent-directed review of a job-search workspace. In development. |
+| **[myFood](https://github.com/Vaghani-Rushal/myFood-mern)** | Earlier MERN learning project: browsing, cart and orders. |
 
 </details>
 
 ---
-
-<a id="experience"></a>
 
 ## 💼 &nbsp; Experience
 
@@ -262,16 +247,14 @@ Extended delivery-rule applications with product/store settings, cutoff times an
 
 <b>January 2026 — Present</b><br/><br/>
 <b>DevOps Engineer & Technical Team Lead</b><br/>
-<sub>Freelance · client engagements through Upwork</sub>
+<sub>Freelance · Upwork clients</sub>
 
 </td>
 <td width="65%" valign="top">
 
-Build and operate Linux infrastructure alongside application and data-workflow delivery.
-
-- **Access & automation:** Linux/GPU environments, named users, SSH/sudo policies, Ansible and Tailscale.
-- **Delivery & recovery:** CI validation, deployment checks, artifact handling and rollback paths.
-- **Application & data services:** OCR/MCP prototypes, assessment workflows and staged migration tooling, with team and agent-assisted implementation/review.
+- Linux/GPU operations, access controls and Ansible automation.
+- Deployment checks, release workflows and recovery paths.
+- Technical team leadership, service prototypes and data integrations.
 
 </td>
 </tr>
@@ -280,92 +263,41 @@ Build and operate Linux infrastructure alongside application and data-workflow d
 
 <b>January 2024 — December 2025</b><br/><br/>
 <b>Full-Stack Developer</b><br/>
-<sub>Freelance · client engagements through Upwork</sub>
+<sub>Freelance · Upwork clients</sub>
 
 </td>
 <td width="65%" valign="top">
 
-Developed web applications, backend services and Shopify integrations for client projects.
-
-- **Product features:** React interfaces, Node.js APIs, application data models and storage integrations.
-- **Commerce:** Merchant delivery rules, settings and storefront integration.
-- **Healthcare & research:** Selected intake/admin features, search, LLM integration and assessment workflows in team-built applications.
+- React interfaces, Node.js APIs and data integrations.
+- Shopify delivery rules and storefront features.
+- Healthcare workflows, research tools and LLM integrations.
 
 </td>
 </tr>
-<tr>
-<td width="35%" valign="top" align="center">
 
-<b>Technical Lead · Coding Club</b><br/>
-<sub>Sarvajanik College of Engineering & Technology</sub>
-
-</td>
-<td width="65%" valign="top">
-
-Student technical leadership at SCET. Served as a student coordinator for **CODE THE ONE at UPDATES 2022**, a CodeChef-hosted competition focused on data structures, algorithms and problem solving.
-
-</td>
-</tr>
 </table>
-
----
-
-<a id="learning"></a>
-
-## 🎓 &nbsp; Education & Current Direction
-
-| Background | Focus |
-| :--- | :--- |
-| **B.E. in Computer Engineering** | SCET, affiliated with Gujarat Technological University. |
-| **Incoming MACS · January 2027** | Master of Applied Computer Science, Dalhousie University, Halifax. Accepted; studies have not started. |
-| **Deepening my foundations** | Networking, Linux internals and cloud infrastructure, with MLOps as a longer-term direction. |
 
 ---
 
 ## 💭 &nbsp; How I Work
 
-<table width="100%">
-<tr>
-<td width="42%" valign="top">
-
-> **Understand the application.**<br/>
-> **Trace the request.**<br/>
-> **Make the next change safer.**
-
-</td>
-<td width="58%" valign="top">
-
-1. **Diagnose by layer:** connectivity, transport, identity, then application behavior.
-2. **Review before applying:** keep infrastructure changes repeatable and visible.
-3. **Plan recovery:** define checks and a rollback path alongside deployment.
-4. **Make handover useful:** document decisions, operational steps and limitations.
-
-</td>
-</tr>
-</table>
+- **Find the cause.** Trace the failure before changing the system.
+- **Make changes reviewable.** Automate repeatable work and validate it.
+- **Plan the handover.** Include recovery steps and useful documentation.
 
 ---
-
-<a id="contact"></a>
 
 ## 📬 &nbsp; Let's Build Something
 
 <div align="center">
 
-Interested in **DevOps / infrastructure and full-stack opportunities**.<br/>
-Linux automation, deployment workflows, web/mobile integrations, Shopify and retrieval-backed applications.
+**Have an application to build or a system to improve?**
 
-<p>Share the system, the problem and the constraints. Let's turn them into a practical delivery plan.</p>
+I'm open to DevOps, infrastructure and full-stack opportunities. Let's talk.
 
-<a href="https://www.upwork.com/freelancers/~01853589cad5b11e67">
-  <img src="https://img.shields.io/badge/WORK%20WITH%20ME-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=0f172a" alt="Work with me on Upwork" />
-</a>
-<a href="https://www.linkedin.com/in/rushal-vaghani-47835b1bb/">
-  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="Connect on LinkedIn" />
-</a>
-<a href="https://rushal-vaghani.netlify.app/">
-  <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="View portfolio" />
-</a>
+<a href="https://www.linkedin.com/in/rushal-vaghani-47835b1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.upwork.com/freelancers/~01853589cad5b11e67"><img src="https://img.shields.io/badge/Hire%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+<a href="https://rushal-vaghani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
