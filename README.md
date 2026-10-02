@@ -1,7 +1,7 @@
 <!-- Rushal Vaghani · DevOps, Infrastructure & Full-Stack Development -->
 
 <a href="https://rushal-vaghani.netlify.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:7c3aed,100:06b6d4&height=220&section=header&text=Rushal%20Vaghani&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%26%20Infrastructure%20%C2%B7%20Full-Stack%20Development&descSize=15&descAlignY=60&animation=twinkling" width="100%" alt="Rushal Vaghani — DevOps, Infrastructure and Full-Stack Development" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Rushal Vaghani — DevOps, Infrastructure and Full-Stack Development" />
 </a>
 
 <div align="center">
@@ -32,19 +32,10 @@ I work across **application development and the infrastructure behind it**—fro
 
 My current focus is **DevOps, Linux and networking**, grounded in hands-on full-stack work across healthcare products, Shopify applications and retrieval/data services.
 
-```ts
-const rushal = {
-  focus: ["DevOps", "Linux", "Networking"],
-  build: ["Web & mobile", "APIs", "RAG"],
-  work: "Freelance · Upwork clients",
-  next: "Dalhousie MACS · January 2027"
-};
-```
-
 </td>
 <td width="38%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer working at a desk" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Developer working at a desk" />
 
 <br/>
 
@@ -55,6 +46,15 @@ const rushal = {
 </td>
 </tr>
 </table>
+
+```ts
+const rushal = {
+  focus: ["DevOps", "Linux", "Networking"],
+  build: ["Web & mobile", "APIs", "RAG"],
+  work: "Freelance · Upwork clients",
+  next: "Dalhousie MACS · January 2027"
+};
+```
 
 ---
 
