@@ -1,12 +1,12 @@
 <!-- Rushal Vaghani · DevOps, Infrastructure & Full-Stack Development -->
 
-<a href="https://rushal-vaghani.netlify.app/">
+<a href="https://rushal-vaghani.me/">
   <img src="./assets/profile-header.svg" width="100%" alt="Rushal Vaghani — DevOps, Infrastructure and Full-Stack Development" />
 </a>
 
 <div align="center">
 
-<a href="https://rushal-vaghani.netlify.app/">
+<a href="https://rushal-vaghani.me/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=06B6D4&center=true&vCenter=true&width=600&height=46&lines=From+application+code+to+deployment+and+recovery;Linux+%C2%B7+Automation+%C2%B7+Full-Stack+%C2%B7+RAG;Understand+the+system.+Make+the+next+change+safer." alt="Application development, Linux infrastructure, automation and retrieval workflows" />
 </a>
 
@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/rushal-vaghani-47835b1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.upwork.com/freelancers/~01853589cad5b11e67"><img src="https://img.shields.io/badge/Hire%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-<a href="https://rushal-vaghani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://rushal-vaghani.me/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -295,7 +295,7 @@ I'm open to DevOps, infrastructure and full-stack opportunities. Let's talk.
 
 <a href="https://www.linkedin.com/in/rushal-vaghani-47835b1bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.upwork.com/freelancers/~01853589cad5b11e67"><img src="https://img.shields.io/badge/Hire%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-<a href="https://rushal-vaghani.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://rushal-vaghani.me/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
